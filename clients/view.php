@@ -19,7 +19,6 @@
         </tr>
 
         <?php
-
  include '../connect.php';
 
  $query = "SELECT * From clients";
